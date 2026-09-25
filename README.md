@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LAB
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.0.
@@ -57,3 +58,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# workspaceAngular
+>>>>>>> 82f76e1d2116bb8f335f6faf7ca057a18b48c3a1

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "lab",
   "version": "0.0.0",
   "scripts": {
@@ -33,5 +34,9 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.8.2"
+=======
+  "devDependencies": {
+    "json-server": "^0.17.4"
+>>>>>>> 82f76e1d2116bb8f335f6faf7ca057a18b48c3a1
   }
 }
